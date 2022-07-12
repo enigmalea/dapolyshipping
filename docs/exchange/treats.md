@@ -111,4 +111,5 @@ You can use copy & paste to make sure you're gifting to the correct person in th
 1. Go to this year's Collection and click the `Post to Collection` button <u>or</u> go to `New Work`.
 2. In the **Associations** section of the New Work make sure:
     1. This year's collection is listed in the `Post to Collections / Challenges` box.
+  
 <p role="note">There is no need to list anything in the `Gift this work to` box.</p>

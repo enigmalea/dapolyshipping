@@ -50,7 +50,7 @@ As mentioned in the note, dubcon is dubious! Not everyone agrees what is dubcon 
 
 Where we believe things cross into "this probably isn't healthy polyamory" is through things like blackmail, emotional manipulation, or other coercive techniques (i.e. "have a threesome and I won't leave you"). If you have any doubts while writing your prompts/requests or when fulfilling your assignment, feel free to reach out to us and we can talk through things.
 
-Please note, the mods of the exchange don't have a *moral objection* to these themes and absolutely will not judge you; they're just not in scope for the exchange.
+The mods of the exchange don't have a *moral objection* to these themes and absolutely will not judge you; they're just not in scope for the exchange.
 
 ## How do I participate?
 The exchange is being done through AO3. That means you have to have an AO3 account to sign-up or give treats. If you do not have an AO3 account and would like one, the mods have invites available! Please feel free to reach out to us for an invite.
@@ -160,7 +160,7 @@ Pinch hits are posted on the tumblr, twitter, and exchange Discord as moderators
 ## There's a problem with my gift/treat!
 If your received gift/treat violates a rule of the exchange (including but not limited to violating your DNWs or not being healthy polyamory), please reach out to a moderator so we can review the situation and decide what action to take. You are always allowed to reject a gift/treat that meets the requirements of the exchange, but isn't quite what you wanted, even if it doesn't violate your DNWs. Before you do so, we encourage you to reach out to a moderator so we can review things.
 
-Please note that reaching out to a moderator won't necessarily get anyone in "trouble" or banned from our exchanges! Solutions could be a rewrite, another gift/treat, or a pinch hit to take the place of the other gift. Don't ever be afraid to speak up!
+Please be aware that reaching out to a moderator won't necessarily get anyone in "trouble" or banned from our exchanges! Solutions could be a rewrite, another gift/treat, or a pinch hit to take the place of the other gift. Don't ever be afraid to speak up!
 
 ## Help! I'm running out of room for requests/offers!
 If you've hit your 30 ships for requests/offers and still want to request or offer more, there is some flexibility allowed in your prompt/additional info section.
@@ -197,7 +197,7 @@ The image below shows what not to do. Even though `Zevran/Male Aeducan/Anders` a
 </a>
 
 ### For Offers
-If you have more than 30 ships you want to offer, but aren't willing to create for literally `Any` ship requested, please feel free to list other ships in your **Additional Info** for your first offer. If we have difficulties matching someone we will take a look at Additional Info in offers to help with matching! Please note, you don't have to list your additional ships in every offer; however, we DO ask that you complete all 10 offers, with at least three ships each before you use this option.
+If you have more than 30 ships you want to offer, but aren't willing to create for literally `Any` ship requested, please feel free to list other ships in your **Additional Info** for your first offer. If we have difficulties matching someone we will take a look at Additional Info in offers to help with matching! You don't have to list your additional ships in every offer; however, we DO ask that you complete all 10 offers, with at least three ships each before you use this option.
 
 <u><strong>General Guidelines for Listing Additional Ships for Offers</strong></u>
 

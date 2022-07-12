@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Basics
+# Info
 
 Launched in 2021, DA Poly Exchange is a fanfic and fanart exchange hosted on AO3 focusing on polyamorous, polysexual, and polygamous ships in the Dragon Age fandom which takes place annually in the Fall. For the exchange, participants sign up with their wants for a new fanart or fanfic gift and  in exchange, offer to create a new piece for another fan. Although main gifts should be new fanart or fanfic that meet the above guidelines, treats are allowed to be sketches or drabbles or even works of a different variety (podfic, fanmixes, fanedits, etc). Treats can be given to multiple recipients or no recipients (gifted to the collection as a whole). The collection for the exchange remains open to receive treats based on requests or nominated ships!
 

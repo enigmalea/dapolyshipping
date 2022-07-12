@@ -59,7 +59,7 @@ const config = {
             items: [
               {
                 type: 'doc',
-                label: 'Basics',
+                label: 'General',
                 docId: 'dapolyweek/intro',
               },
               {
@@ -82,7 +82,7 @@ const config = {
             items: [
               {
                 type: 'doc',
-                label: 'Basics',
+                label: 'Info',
                 docId: 'exchange/intro',
               },
               {

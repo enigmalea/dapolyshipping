@@ -217,6 +217,7 @@ AutoAo3 also loads the entire tagset for viewing into the app. You can see the e
 <img src={require('/img/tutorial/tagsetfilter.png').default} />
 </a>
 
+
 <p role="note">The Nominations Spreadsheet remains up throughout and after the exchange, so you can always check it for tags as well.</p>
 
 ## Bookmarking requests.
@@ -242,6 +243,7 @@ Anything you bookmark is moved to the **Bookmarks** tab for you. To remove, simp
 <a href="#_" className="lightbox" id="img15">
 <img src={require('/img/tutorial/bookmarkstab.png').default} />
 </a>
+
 
 <p role="note">The bookmarks feature is only available after sign-ups close!</p>
 
