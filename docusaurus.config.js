@@ -276,7 +276,7 @@ const config = {
         {name: 'theme-color', content: '#0a1027'},
         {name: 'twitter:card', content: 'summary'},
         {name: 'twitter:creator', content: 'dapolyshipping'},
-        {name: 'og:image', content: '/img/icon.png'},
+        {name: 'og:image', content: '/img/logo.png'},
       ],
     }
     ),
