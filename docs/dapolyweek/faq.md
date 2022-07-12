@@ -73,7 +73,7 @@ To submit without an account, simply enter a name and email into the submission 
 
 ## Someone submitted something to your blog that plagiarizes my fic/someone has stolen my art and submitted it to you!
 
-We are very, very sorry this has happened to you. We do have a policy in place concerning plagiarism and art theft with some steps to take. Please take a moment to read our information [On Art Theft](/arttheft).
+We are very, very sorry this has happened to you. We do have a policy in place concerning plagiarism and art theft with some steps to take. Please take a moment to read our information [On Art Theft](/docs/dapolyweek/arttheft).
 
 We do strongly encourage you to try to work things out amicably with the other creator, but if it simply isn't possible we will remove the work which violates your intellectual property rights. We would also like to encourage you to submit your work yourself as long as it fits the scope of the blog.
 

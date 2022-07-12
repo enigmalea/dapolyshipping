@@ -24,7 +24,7 @@ In short, we're using the same concept here as we do for our exchange. We try no
 - **consent** - all parties involved must be willing participants. simply put that means no cheating, no coercion or forced relationships or sexual acts, no tricking people into the relationship, no cajoling, etc.
 - **communication** - this goes hand in hand with the above and should be obvious, but in order to be explicit, communication about the relationship or sexual act must be open and honest. Obviously, we don't mean "characters can't lie", but when they lie they shouldn't be attempting to deceive someone about the relationship. For example, Solas can definitely hide that he's Fen'Harel, but he shouldn't be telling Cassandra he's only sleeping with her, when he's also sleeping with Iron Bull.
 
-For a lot more details check out the exchange [FAQ - What do you mean by healthy polyamory?](/docs/exchage/faq#what-do-you-mean-by-healthy-polyamory).
+For a lot more details check out the exchange [FAQ - What do you mean by healthy polyamory?](/docs/exchange/faq#what-do-you-mean-by-healthy-polyamory).
 
 ## How do I participate?
 
