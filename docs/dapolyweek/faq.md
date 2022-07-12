@@ -62,7 +62,7 @@ Meanwhile, in a `Solas/f!Lavellan/Cullen Rutherford` ship, all three parties are
 
 To submit without an account, simply enter a name and email into the submission form. You can use a fandom handle or even "anon" if you do not want to provide a real name. If you do not want to provide an email feel free to use **dapolyshipping@gmail.com** or even a fake address. We do not use this address for anything and don't even see it.
 
-<a href="##img1"  className="preview">
+<a href="#img1"  className="preview">
 <img src={require('/img/submission.png').default} alt="Submitting Anonymously"  className="thumbnail" />
 </a>
 <p className="label">Submitting Anonymously: click to enlarge</p>
