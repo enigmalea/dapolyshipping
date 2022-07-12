@@ -4,10 +4,10 @@
 
 ![MIT License](https://img.shields.io/github/license/enigmalea/dapolyshipping?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/enigmalea/dapolyshipping?style=for-the-badge)
-[![Website Status](https://img.shields.io:/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fdapolyshipping.neocities.org)](http://dapolyshipping.neocities.org)
+[![Website Status](https://img.shields.io:/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fdapolyshipping.neocities.org)](http://dapolyshipping.neocities.org)<br />
 [![Follow @dapolyshipping on twitter](https://img.shields.io/twitter/follow/dapolyshipping?style=for-the-badge&label=Twitter&logo=twitter&logoColor=ffffff&color=1DA1F2)](https://twitter.com/dapolyshipping)
-[![tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://dapolyshipping.tumblr.com)
 [![Join DA Polyshipping Discord](https://img.shields.io/discord/882432559982706758?color=5865F2&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/FzhC9bVFva)
+[![tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://dapolyshipping.tumblr.com)
 
 <a href="#about">About</a> &#xa0; | &#xa0;
 <a href="#technology">Technology</a> &#xa0; | &#xa0;
