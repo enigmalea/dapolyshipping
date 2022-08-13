@@ -380,7 +380,7 @@ strong {
 p[role=note] {
   font-size: 0.9rem;
   text-align: justify;
-  max-width: 75vw;    
+  max-width: 95vw;    
   padding: 6px 12px;
   color: var(--ifm-color-secondary);
   background-color: var(--ifm-color-secondary-contrast-background);
