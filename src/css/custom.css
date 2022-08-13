@@ -378,6 +378,8 @@ strong {
 }
 
 p[role=note] {
+  display: block;
+  margin: 0 auto;
   font-size: 0.9rem;
   text-align: justify;
   max-width: 95vw;    
