@@ -44,9 +44,9 @@ const config = {
     ({
       respectPrefersColorScheme: true,
       navbar: {
-        title: 'DA Polyshipping',
+        title: 'Dragon Age Polyshipping',
         logo: {
-          alt: 'DA Polyshipping Logo',
+          alt: 'Dragon Age Polyshipping Logo',
           src: 'img/logo.png',
         },
         items: [
