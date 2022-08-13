@@ -34,3 +34,8 @@
     max-width: 80vw;
   }
 }
+
+.form {
+  display: block;
+  margin: 10px auto;
+}

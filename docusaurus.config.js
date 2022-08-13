@@ -108,6 +108,10 @@ const config = {
                 href: 'https://autoao3app.firebaseapp.com/#/dapolyex2022/all',
               },
               {
+                label: 'Request an Extension',
+                href: '/extensions',
+              },
+              {
                 label: 'Past Events',
                 href: '/past',
               },
@@ -250,7 +254,7 @@ const config = {
               },
               {
                 label: 'dapolyshipping@gmail.com',
-                href: 'mailto: dapolyshipping@gmail.com',
+                href: 'mailto:dapolyshipping@gmail.com',
               },
             ],
           },

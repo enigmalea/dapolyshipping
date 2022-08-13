@@ -35,5 +35,5 @@ The exchange focuses on healthy polyamory in all its forms and welcomes queer pl
 
 ### Problems/Troubleshooting
 - Questions about OCs, DNWs, or prompts should be directed to your recipient's tumblr ask box *while on anon*. **If anon asks are not on or you are unable to find their tumblr, that is okay.** Please reach out to the mods through DM on tumblr, twitter, or Discord DM, and we'll reach out to your recipient to get answers to your questions.
-- If you cannot complete your piece, reach out to a moderator ASAP for an extension or to default.
+- If you cannot complete your piece, reach out to a moderator ASAP for an extension or to default. Please see [FAQ - I can't complete my assignment. What do I do?](/docs/exchange/faq#i-cant-complete-my-assignment-what-do-i-do)
 - If there is a conflict between participants which cannot be resolved or a problem with your assignments or gift, please reach out to a moderator immediately.

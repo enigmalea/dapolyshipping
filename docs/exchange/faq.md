@@ -146,7 +146,7 @@ Treats are extra works gifted to participants from people who may or may not hav
 See [Treats & Treatless FAQ](/docs//exchange/treats) for more information on treats.
 
 ## I can't complete my assignment. What do I do?
-Let a moderator know ASAP, if you don't think you will be able to complete your assignment so that we can look at giving you an extension. There is nothing wrong with needing an extension. More information on ways to request an extension will be coming soon!
+Let a moderator know ASAP, if you don't think you will be able to complete your assignment so that we can look at giving you an extension. There is nothing wrong with needing an extension. To request an extension, please complete the form on [Request an Extension](/extensions). You may also: [DM Us on Twitter](https://twitter.com/messages/compose?recipient_id=1408877238221692928), [send a tumblr ask](https://dapolyshipping.tumblr.com/ask), [email us at dapolyshipping@gmail.com](mailto:dapolyshipping@gmail.com), or reach out to an individual moderator through Discord.
 
 If you can't complete your assignment at all even with an extension, for any reason, please let us know before you default on AO3 so that we can find a pinch hitter. We will work to make sure the offer is fulfilled, either by a volunteer or by a moderator.
 
