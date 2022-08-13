@@ -6,8 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DA Polyshipping',
-  tagline: 'Dinosaurs are cool',
+  title: 'Dragon Age Polyshipping',
   url: 'https://dapolyshipping.neocities.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
