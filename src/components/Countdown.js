@@ -3,7 +3,7 @@ import styles from '../pages/index.module.css';
 
 function Countdown() {
   const calculateTimeLeft = () => {
-    const difference = +new Date(`2022-08-28T12:00:00-04:00`) - +new Date();
+    const difference = +new Date(`2022-09-10T12:00:00-04:00`) - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
@@ -42,7 +42,7 @@ function Countdown() {
   });
   return (
     <div className={styles.countdown}>
-      <h1>Nominations Open</h1>
+      <h1>Nominations Close</h1>
       <b>{timerComponents.length ? timerComponents : <span>Now!</span>}</b>
     </div>
   );
