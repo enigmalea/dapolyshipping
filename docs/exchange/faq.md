@@ -145,23 +145,6 @@ Treats are extra works gifted to participants from people who may or may not hav
 
 See [Treats & Treatless FAQ](/docs//exchange/treats) for more information on treats.
 
-## I can't complete my assignment. What do I do?
-Let a moderator know ASAP, if you don't think you will be able to complete your assignment so that we can look at giving you an extension. There is nothing wrong with needing an extension. To request an extension, please complete the form on [Request an Extension](/extensions). You may also: [DM us on Twitter](https://twitter.com/messages/compose?recipient_id=1408877238221692928), [send a tumblr ask](https://dapolyshipping.tumblr.com/ask), [email us at dapolyshipping@gmail.com](mailto:dapolyshipping@gmail.com), or reach out to an individual moderator through Discord.
-
-If you can't complete your assignment at all even with an extension, for any reason, please let us know before you default on AO3 so that we can find a pinch hitter. We will work to make sure the offer is fulfilled, either by a volunteer or by a moderator.
-
-## What's a pinch hit and who can complete them?
-Pinch hits are requests which need someone other than the original assignee to be completed. They can be completed by moderators or anyone from the community with an AO3 account willing to take on the challenge. You do not currently have to be signed-up to the exchange to claim a pinch-hit.
-  
-Pinch hits are posted on the tumblr, twitter, and exchange Discord as moderators are made aware they are needed. Pinch hit deadlines are established as they are claimed and may fit outside of the other exchange deadlines.
-
-#### Works for the exchange will not be revealed until everyone who signed up has a gift!
-
-## There's a problem with my gift/treat!
-If your received gift/treat violates a rule of the exchange (including but not limited to violating your DNWs or not being healthy polyamory), please reach out to a moderator so we can review the situation and decide what action to take. You are always allowed to reject a gift/treat that meets the requirements of the exchange, but isn't quite what you wanted, even if it doesn't violate your DNWs. Before you do so, we encourage you to reach out to a moderator so we can review things.
-
-Please be aware that reaching out to a moderator won't necessarily get anyone in "trouble" or banned from our exchanges! Solutions could be a rewrite, another gift/treat, or a pinch hit to take the place of the other gift. Don't ever be afraid to speak up!
-
 ## Help! I'm running out of room for requests/offers!
 If you've hit your 30 ships for requests/offers and still want to request or offer more, there is some flexibility allowed in your prompt/additional info section.
 
@@ -215,3 +198,41 @@ If you have more than 30 ships you want to offer, but aren't willing to create f
 <a href="#_" className="lightbox" id="img3">
 <img src={require('/img/tutorial/additionaloffers.png').default} />
 </a>
+
+## I can't complete my assignment. What do I do?
+Let a moderator know ASAP, if you don't think you will be able to complete your assignment so that we can look at giving you an extension. There is nothing wrong with needing an extension. To request an extension, please complete the form on [Request an Extension](/extensions). You may also: [DM us on Twitter](https://twitter.com/messages/compose?recipient_id=1408877238221692928), [send a tumblr ask](https://dapolyshipping.tumblr.com/ask), [email us at dapolyshipping@gmail.com](mailto:dapolyshipping@gmail.com), or reach out to an individual moderator through Discord.
+
+If you can't complete your assignment at all even with an extension, for any reason, please let us know before you default on AO3 so that we can find a pinch hitter. We will work to make sure the offer is fulfilled, either by a volunteer or by a moderator.
+
+## What's a pinch hit and who can complete them?
+Pinch hits are requests which need someone other than the original assignee to be completed. They can be completed by moderators or anyone from the community with an AO3 account willing to take on the challenge. You do not currently have to be signed-up to the exchange to claim a pinch-hit.
+  
+Pinch hits are posted on the tumblr, twitter, and exchange Discord as moderators are made aware they are needed. Pinch hit deadlines are established as they are claimed and may fit outside of the other exchange deadlines.
+
+#### Works for the exchange will not be revealed until everyone who signed up has a gift!
+
+## What does this exchange being moderated mean?
+Our goal as moderators is to ensure that everyone gets a gift they're comfortable with receiving for a ship they requested. With that goal in mind, that means we do reviews throughout the various steps of the exchange. More specifically:
+
+1. **We review tag nominations to make sure they fit our guidelines.** Tags which do not fit our guidelines are posted in the discord server, on the tumblr, twitter, and in the nominations spreadsheet so that they can be updated.
+2. **We review sign-ups.** We may send emails asking for clarifications on [Do Not Wants](#what-are-do-not-wants-dnws), in particular, but also may recommend that you provide OC info or other clarifying information if we think something is very unclear. This is not to police what you're asking for, only to ensure that what you want is clear for anyone looking to create a gift or treat for you.
+    <p role="note">You do not have to have <a href="#what-are-do-not-wants-dnws">Do Not Wants</a>, but please be advised we will email you to ask if you meant not to include them. If you truly have none you can say on your sign up "No Do Not Wants" and we will not email.</p>
+
+    If you are creating for someone and have questions, you can reach out to a moderator and we will be happy to try to get clarifications or more details for you!
+3. **We review works for requested ships, Do Not Wants, and other content we may not be sure about.** We cannot guarantee we are 100% accurate, but we do try to catch things which you might not want. We will send emails to creators *before* reaching out to the recipient to see how you might like to handle any questions we have. Our goal here is to preserve the surprise, so our first contact will always be the gifter. You can always request we check with the recipient if you would prefer that.
+
+## There's a problem with my gift/treat!
+First, we're very sorry we missed something on our reviews. If your received gift/treat violates a rule of the exchange (including but not limited to violating your DNWs or not being healthy polyamory), please reach out to a moderator so we can review the situation and decide what action to take *before* you contact your gifter in comment or any other way. This allows us to approach things as a neutral third party for you.
+
+You are always allowed to reject a gift/treat that meets the requirements of the exchange, but isn't quite what you wanted, even if it doesn't violate your DNWs. Before you do so, we encourage you to reach out to a moderator so we can review the situation. 
+
+Please be aware that reaching out to a moderator won't necessarily get anyone in "trouble" or banned from our exchanges! Solutions could be a rewrite, another gift/treat, or a pinch hit to take the place of the other gift. Don't ever be afraid to speak up!
+
+## Why hasn't my work been approved?
+Approvals for works do take time! As mentioned above, we do at least a minimum review of tags and potentially skim the works, as well.
+
+We also tend to approve in batches, especially early in the exchange, to help make sure that people can't see *exactly* what they will be getting. Because of this, your work may sit in the collection unapproved for days or weeks if you are very fast at creation. If you haven't heard from us, rest assured there's nothing wrong with your gift, and it will be approved as soon as we have enough works to make it not obvious who is receiving what.
+
+As we get closer to reveals, work approvals do tend to happen sooner rather than later.
+
+By the way, we don't discourage "gift shaking" or "collection shaking" directly, but we do like to make it a challenge for you! We think you, as an adult, are perfectly capable of deciding whether you'd like to shake your gift or not. However, we also don't want to accidentally spoil the surprise for anyone who's trying to keep things a surprise for themselves.
