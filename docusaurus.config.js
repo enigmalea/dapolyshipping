@@ -90,6 +90,10 @@ const config = {
                 docId: 'exchange/faq',
               },
               {
+                label: 'SIGN-UP HERE!',
+                href: 'https://archiveofourown.org/collections/dapolyex2022/signups/new',
+              },
+              {
                 type: 'doc',
                 label: 'Treats & Treatless FAQ',
                 docId: 'exchange/treats',
@@ -202,7 +206,11 @@ const config = {
         links: [
           {
             title: 'Info',
-            items: [{
+            items: [
+              {
+                label: 'SIGN-UP HERE!',
+                to: 'https://archiveofourown.org/collections/dapolyex2022/signups/new',
+              },{
               label: 'DA Polyshipping Week',
               to: '/docs/dapolyweek/intro',
             },
