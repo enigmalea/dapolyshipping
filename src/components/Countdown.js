@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from "react";
+
 import styles from '../pages/index.module.css';
 
 function Countdown() {
   const calculateTimeLeft = () => {
-    const difference = +new Date(`2022-09-25T12:00:00-04:00`) - +new Date();
+    const difference = +new Date(`2022-11-06T12:00:00-04:00`) - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
@@ -42,7 +43,7 @@ function Countdown() {
   });
   return (
     <div className={styles.countdown}>
-      <h1>Sign-Ups Close</h1>
+      <h1>Assignments Due</h1>
       <b>{timerComponents.length ? timerComponents : <span>Now!</span>}</b>
     </div>
   );
