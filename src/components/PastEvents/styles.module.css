@@ -17,7 +17,7 @@
 }
 
 .stats {
-  font-size: 0.90rem;
+  font-size: 0.9rem;
 }
 
 blockquote.stats {
@@ -41,7 +41,7 @@ blockquote.stats::before {
   max-width: 85vw;
 }
 
-@media screen and (max-width:670px) { 
+@media screen and (max-width: 670px) {
   .responsive {
     padding: 0px;
   }
