@@ -17,12 +17,15 @@
   text-align: center;
   margin-top: 60px;
   padding: 15px;
-  border: 1px solid var(--ifm-color-emphasis-300);
   border-radius: var(--ifm-pagination-nav-border-radius);
   width: intrinsic;           /* Safari/WebKit uses a non-standard name */
   width: -moz-max-content;    /* Firefox/Gecko */
   width: -webkit-max-content; /* Chrome */
   width: max-content;
+}
+
+.timer {
+	color: var(--ifm-font-color-base);
 }
 
 @media screen and (max-width:990px) {
