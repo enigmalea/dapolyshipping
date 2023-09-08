@@ -1,0 +1,53 @@
+---
+title: Last Minute Nomination Reminders and Corrections
+description:
+  There's only 24 hours to go for 2023 Nominations. Here are the last minute
+  reminders and corrections needed for tags.
+date: 2023-09-09T16:00:00.933Z
+preview: ""
+draft: false
+tags:
+  - "admin: announcement"
+  - "admin: reminders"
+  - dapolyex2023
+categories: []
+---
+
+We're heading into the last 24 hours for ship nominations for the exchange, and
+we wanted to remind you of a few items:
+
+1. In order to fit the theme of "healthy polyamory" all members of a ship must
+   be able to consent. This means they should be sentient beings who are capable
+   of communication. By default, ships with animals or inanimate objects are
+   ineligible.
+
+2. Your tags should be as _specific_ as possible, including gender and/or race
+   (or other identifier) if possible. We prefer tags with things like "Original
+   Male Templar Character(s)" or "Original Female Elvhen Character(s)".
+
+However, we do recognize that general tags (like "Original Character(s)") can be
+useful for when more than one gender or race/identifier is being requested.
+
+## Tags Needing Correction
+
+We have five tags that need correction!
+
+_"Others" is ineligible for the exchange. Please be more specific. Are these
+canon characters (please include which ones) or original characters?_
+
+- Solas/Male Trevelyan/Others
+
+_The Warden in the below tags needs to have a last name, i.e. Female Tabris.
+Please update._
+
+- Alistair/Leliana/Female Warden (Dragon Age)
+- Alistair/Leliana/Male Warden (Dragon Age)
+- Alistair/Leliana/Nonbinary Warden (Dragon Age)
+
+_The below tag was nominated already! You can update it to another tag, if
+wanted._
+
+- Leliana/Josephine Montilyet/Cassandra Pentaghast
+
+**Note:** If your tags are not corrected by the time nominations close, they
+will be rejected.
