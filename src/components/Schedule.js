@@ -44,6 +44,10 @@ export default function Schedule() {
 	);
 }
 
+function SignUpsOpen() {
+	return <code>{signUpsOpen}</code>;
+}
+
 function SignUpsDate() {
 	return <code>{signUpsClose}</code>;
 }
@@ -64,4 +68,4 @@ function CreatorsDate() {
 	return <code>{creatorsRevealed}</code>;
 }
 
-export { SignUpsDate, AssignmentsDate, DueDate, RevealsDate, CreatorsDate };
+export { SignUpsOpen, SignUpsDate, AssignmentsDate, DueDate, RevealsDate, CreatorsDate };
