@@ -1,0 +1,30 @@
+---
+title: 2023 Sign-Ups Are Open!
+description: 2023 DA Polyshipping sign-ups have opened!
+date: 2023-09-10T13:01:52.018Z
+preview: ""
+draft: false
+tags:
+  - "admin: announcement"
+  - dapolyex2023
+categories: []
+slug: 2023-sign-ups-open
+---
+## [Sign-up Form Here](https://archiveofourown.org/collections/dapolyex2023/signups/new)
+
+Sign-ups will remain open for **two weeks,** closing on
+[September 24, 2023 12:00 PM EDT](https://everytimezone.com/s/2c351d5d).
+
+**QUESTIONS?**
+
+Check out the pages below or feel free to contact us!
+
+- [Tutorial: How to Sign-Up](https://dapolyshipping.neocities.org/docs/exchange/tutorials/signups/)
+- [Tutorial: On Exchange Letters](https://dapolyshipping.neocities.org/docs/exchange/tutorials/letters)
+- [FAQs](https://dapolyshipping.neocities.org/docs/exchange/faq)
+
+**CONTACT**
+
+[tumblr ask](https://dapolyshipping.tumblr.com/ask) |
+[discord](https://discord.gg/VUaGepeJmf) | **email:**
+[dapolyshipping@gmail.com](mailto:dapolyshipping@gmail.com)
