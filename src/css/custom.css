@@ -286,12 +286,13 @@ html[data-theme="light"] .navbar-sidebar {
 /* Link stylings */
 
 a:any-link {
-  text-underline-offset: 7px;
+  text-decoration: none;
 }
 
 a:hover {
-  background-color: var(--ifm-link-hover-color);
-  color: var(--ifm-background-color);
+  color: var(--ifm-link-hover-color);
+  text-decoration: 1px underline wavy;
+  text-underline-offset: 7px;
 }
 
 a.navbar__brand,
@@ -332,6 +333,13 @@ a.pagination-nav__link:hover {
   margin: 10px auto;
   padding: 15px;
   border-radius: 5px;
+}
+
+[class*="tag"]:hover {
+  border-color: var(--ifm-pagination-nav-color-hover);
+  color: var(--ifm-pagination-nav-color-hover);
+  background: transparent;
+  text-decoration: none !important;
 }
 
 /* Header Stylings */
@@ -446,7 +454,7 @@ p[role="note"]::before {
   content: "NOTE:";
 }
 
-/* Sytling for mobile */
+/* Styling for mobile */
 @media screen and (max-width: 990px) {
   :root {
     --ifm-menu-link-sublist-icon-filter: invert(100%) sepia(94%) saturate(17%)
