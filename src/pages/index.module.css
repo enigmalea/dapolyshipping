@@ -39,6 +39,11 @@
 }
 
 .form {
-  display: block;
-  margin: 10px auto;
+	display: block;
+	margin: 10px auto;
+	filter: brightness(0.85);
+}
+
+html[data-theme="dark"] .form {
+		filter: invert(80%) brightness(0.85);
 }
