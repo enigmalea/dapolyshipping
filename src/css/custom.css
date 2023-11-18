@@ -34,7 +34,7 @@
 
 /* Removes Docusaurus external link icon */
 [class*="iconExternalLink"] {
-  display: none;
+  display: none !important;
 }
 
 /* You can override the default Infima variables here. */
@@ -445,13 +445,6 @@ p[role="note"]::before {
   font-family: var(--ifm-font-family-monospace);
   color: var(--ifm-blockquote-color);
   font-weight: normal;
-}
-
-.inlineNote::before {
-  font-family: var(--ifm-font-family-monospace);
-  color: var(--ifm-blockquote-color);
-  font-weight: bold;
-  content: "NOTE:";
 }
 
 /* Styling for mobile */

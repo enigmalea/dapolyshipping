@@ -144,7 +144,7 @@ one tag at a time.
 
 :::
 
-:::caution
+:::warning
 
 Be sure to use the full tags listed above for searching for treats to give.
 Entering just `Treats` will return every tag that has the word "treats" in it

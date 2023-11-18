@@ -10,8 +10,8 @@ const signUpsOpen = dayjs.unix(1694361600).format("LLLL");
 const signUpsClose = dayjs.unix(1695571200).format("LLLL");
 const assignments = dayjs.unix(1695772800).format("LLLL");
 const worksDue = dayjs.unix(1699203600).format("LLLL");
-const worksRevealed = dayjs.unix(1699808400).format("LLLL");
-const creatorsRevealed = dayjs.unix(1700413200).format("LLLL");
+const worksRevealed = dayjs.unix(1700096400).format("LLLL");
+const creatorsRevealed = dayjs.unix(1700701200).format("LLLL");
 
 export default function Schedule() {
 	return (

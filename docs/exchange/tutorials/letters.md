@@ -41,7 +41,7 @@ The below options are useful for hosting your letters in a place where your gift
 
     You can also drop your letter into a regular [tumblr](http://www.tumblr.com) post. If you would like to keep your letter off your mutuals’ dashes you can make the post private and then a few hours (or days) later make it public. It will not appear on their dash if they sort by popularity or by timeline unless it suddenly gets a lot of likes.
 
-:::caution
+:::warning
 
 Please be cautious about using tumblr pages as there are issues with them working for mobile users; the Android tumblr app often redirects from a page back to the blog homepage not allowing people to see the page.
 
