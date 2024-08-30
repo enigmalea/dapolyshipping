@@ -11,7 +11,8 @@
 @font-face {
   font-family: "AO3";
   src: url("/fonts/AO3/AO3.eot");
-  src: url("/fonts/AO3/AO3.eot?#iefix") format("embedded-opentype"),
+  src:
+    url("/fonts/AO3/AO3.eot?#iefix") format("embedded-opentype"),
     url("/fonts/AO3/AO3.woff") format("woff"),
     url("/fonts/AO3/AO3.woff2") format("woff2"),
     url("/fonts/AO3/AO3.ttf") format("truetype"),
@@ -23,7 +24,8 @@
 @font-face {
   font-family: "Victor Mono";
   src: url("/fonts/VictorMono/VictorMono-Regular.eot");
-  src: url("/fonts/VictorMono/VictorMono-Regular.eot?#iefix")
+  src:
+    url("/fonts/VictorMono/VictorMono-Regular.eot?#iefix")
       format("embedded-opentype"),
     url("/fonts/VictorMono/VictorMono-Regular.woff") format("woff"),
     url("/fonts/VictorMono/VictorMono-Regular.woff2") format("woff2"),
@@ -383,7 +385,9 @@ blockquote::before {
   background: var(--ifm-background-color);
   width: 3rem;
   height: 2rem;
-  font: 6em/1.08em "PT Sans", sans-serif;
+  font:
+    6em/1.08em "PT Sans",
+    sans-serif;
   color: var(--ifm-link-hover-color);
   text-align: center;
 }

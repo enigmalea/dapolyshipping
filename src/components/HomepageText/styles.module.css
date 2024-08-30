@@ -1,10 +1,10 @@
 .main {
   display: flex;
-	justify-content: center;
+  justify-content: center;
   align-items: center;
 }
 
 .text {
-	width: 95vw;
-	max-width: 950px;
+  width: 95vw;
+  max-width: 950px;
 }

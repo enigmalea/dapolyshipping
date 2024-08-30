@@ -61,12 +61,13 @@ const EventList: EventItem[] = [
       </>
     ),
   },
-	{
+  {
     title: "DA Poly Exchange 2022",
     tagset: "https://archiveofourown.org/tag_sets/11946",
     collection: "http://archiveofourown.org/collections/dapolyex2022/profile",
     requests: "https://autoao3app.fandom.tools/#/dapolyex2022/all",
-    nominations: "https://docs.google.com/spreadsheets/d/1xvcTzUAcScThPZC85SMyjiW9MmStGVjfg2vlqNFx1LA/edit?usp=sharing",
+    nominations:
+      "https://docs.google.com/spreadsheets/d/1xvcTzUAcScThPZC85SMyjiW9MmStGVjfg2vlqNFx1LA/edit?usp=sharing",
     tumblr: "http://dapolyshipping.tumblr.com/tagged/dapolyex2022",
     stats: (
       <>
