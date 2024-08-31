@@ -1,66 +1,66 @@
 {
-	"$schema": "https://frontmatter.codes/frontmatter.schema.json",
-	"frontMatter.content.defaultFileType": "mdx",
-	"frontMatter.content.pageFolders": [
-		{
-			"path": "[[workspace]]/blog",
-			"title": "blog"
-		},
-		{
-			"path": "[[workspace]]/docs/exchange",
-			"title": "exchange"
-		},
-		{
-			"path": "[[workspace]]/docs/sharing",
-			"title": "sharing"
-		},
-		{
-			"path": "[[workspace]]/docs/exchange/tutorials",
-			"title": "tutorials"
-		}
-	],
-	"frontMatter.content.publicFolder": "static",
-	"frontMatter.framework.id": "docusaurus",
-	"frontMatter.preview.host": "http://localhost:3000",
-	"frontMatter.taxonomy.contentTypes": [
-		{
-			"fields": [
-				{
-					"name": "title",
-					"title": "Title",
-					"type": "string"
-				},
-				{
-					"name": "description",
-					"title": "Description",
-					"type": "string"
-				},
-				{
-					"default": "{{now}}",
-					"isPublishDate": true,
-					"name": "date",
-					"title": "Publishing date",
-					"type": "datetime"
-				},
-				{
-					"name": "preview",
-					"title": "Content preview",
-					"type": "image"
-				},
-				{
-					"name": "draft",
-					"title": "Is in draft",
-					"type": "draft"
-				},
-				{
-					"name": "tags",
-					"title": "Tags",
-					"type": "tags"
-				}
-			],
-			"name": "default",
-			"pageBundle": false,
-			"previewPath": null
-		}
-	]
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.defaultFileType": "mdx",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/blog",
+      "title": "blog"
+    },
+    {
+      "path": "[[workspace]]/docs/exchange",
+      "title": "exchange"
+    },
+    {
+      "path": "[[workspace]]/docs/sharing",
+      "title": "sharing"
+    },
+    {
+      "path": "[[workspace]]/docs/exchange/tutorials",
+      "title": "tutorials"
+    }
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "docusaurus",
+  "frontMatter.preview.host": "http://localhost:3000",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "fields": [
+        {
+          "name": "title",
+          "title": "Title",
+          "type": "string"
+        },
+        {
+          "name": "description",
+          "title": "Description",
+          "type": "string"
+        },
+        {
+          "default": "{{now}}",
+          "isPublishDate": true,
+          "name": "date",
+          "title": "Publishing date",
+          "type": "datetime"
+        },
+        {
+          "name": "preview",
+          "title": "Content preview",
+          "type": "image"
+        },
+        {
+          "name": "draft",
+          "title": "Is in draft",
+          "type": "draft"
+        },
+        {
+          "name": "tags",
+          "title": "Tags",
+          "type": "tags"
+        }
+      ],
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null
+    }
+  ]
 }

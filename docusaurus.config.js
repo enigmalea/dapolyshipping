@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { themes } = require("prism-react-renderer");
+const lightTheme = themes.github;
+const darkTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -92,7 +93,7 @@ const config = {
             items: [
               {
                 type: "doc",
-                label: "Info",
+                label: "Rules & Information",
                 docId: "exchange/intro",
               },
               {
@@ -121,10 +122,10 @@ const config = {
                 label: "AutoAO3: Requests",
                 href: "https://autoao3app.fandom.tools/#/dapolyex2023/all",
               },
-							{
-								label: "Treatless",
-								href: "https://airtable.com/appY5fs0OEcU1KK70/shrBVIVizfQ6O5rAv/tblvGEu0Tyo14AL4q",
-							},
+              {
+                label: "Treatless",
+                href: "https://airtable.com/appY5fs0OEcU1KK70/shrBVIVizfQ6O5rAv/tblvGEu0Tyo14AL4q",
+              },
               {
                 label: "Request an Extension",
                 href: "/extensions",
@@ -303,7 +304,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DA Polyshipping. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://thehangedman.club">The Hanged Man</a>`,
       },
       docs: {
         sidebar: {
@@ -311,8 +312,8 @@ const config = {
         },
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: lightTheme,
+        darkTheme: darkTheme,
       },
       metadata: [
         { name: "theme-color", content: "#0a1027" },
