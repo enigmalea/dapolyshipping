@@ -451,6 +451,17 @@ p[role="note"]::before {
   font-weight: normal;
 }
 
+/* Image Labels */
+.label {
+  color: var(--ifm-color-primary-lightest);
+  font-style: italic;
+  margin-bottom: 5px;
+  margin-top: -10px;
+  padding-top: 0px;
+  text-align: center;
+  font-size: small;
+}
+
 /* Styling for mobile */
 @media screen and (max-width: 990px) {
   :root {
