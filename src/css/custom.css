@@ -537,3 +537,37 @@ html[data-theme="dark"] .card__body {
 .card__image {
   padding: 0px;
 }
+
+/* Mod Page Styling */
+.mods {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 35px;
+}
+
+@media screen and (max-width: 810px) {
+  .mods {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 35px;
+  }
+}
+
+@media screen and (max-width: 545px) {
+  .mods {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+}
+
+.avatar__subtitle {
+  display: flex;
+  column-gap: 10px;
+  padding-top: 0px !important;
+  margin: 0px;
+}
+
+.mod__name {
+  color: var(--ifm-font-color-base);
+}
