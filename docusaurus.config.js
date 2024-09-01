@@ -203,29 +203,33 @@ const config = {
             ],
           },
           {
-            label: "Tumblr",
-            href: "https://dapolyshipping.tumblr.com",
-            position: "left",
-            className: "tumblr",
-          },
-          {
-            label: "Discord",
-            href: "https://discord.gg/VUaGepeJmf",
-            position: "left",
-            className: "discord",
-          },
-          {
             type: "dropdown",
-            label: "Announcements",
+            label: "Social",
             position: "left",
-            className: "blog",
+            className: "announce",
             items: [
+							{
+								label: "Tumblr",
+								href: "https://dapolyshipping.tumblr.com",
+								className: "tumblr",
+							},
+							{
+								label: "BlueSky",
+								href: "https://bsky.app/profile/dapolyshipping.bsky.social",
+								className: "bluesky",
+							},
+							{
+								label: "Discord",
+								href: "https://discord.gg/VUaGepeJmf",
+								className: "discord",
+							},
               {
-                label: "View",
+                label: "View Blog",
                 href: "/blog",
+								className: "blog",
               },
               {
-                label: "Follow via RSS",
+                label: "Blog RSS",
                 href: "https://dapolyshipping.neocities.org/blog/rss.xml",
                 className: "rss",
               },
@@ -235,75 +239,6 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Info",
-            items: [
-              {
-                label: "Poly Sharing",
-                to: "/docs/sharing/intro",
-              },
-              {
-                label: "Exchange Info",
-                to: "/docs/exchange/intro",
-              },
-              {
-                label: "Exchange FAQs",
-                to: "/docs/exchange/faq",
-              },
-              {
-                label: "SIGN-UP HERE",
-                href: "https://archiveofourown.org/collections/dapolyex2023/signups/new",
-              },
-            ],
-          },
-          {
-            title: "Tutorials",
-            items: [
-              {
-                label: "How to Nominate",
-                to: "/docs/exchange/tutorials/nominate",
-              },
-              {
-                label: "How to Sign-Up",
-                to: "/docs/exchange/tutorials/signups",
-              },
-              {
-                label: "On Exchange Letters",
-                to: "/docs/exchange/tutorials/letters",
-              },
-              {
-                label: "How to Filter the AutoAO3 App",
-                to: "/docs/exchange/tutorials/autoao3",
-              },
-            ],
-          },
-          {
-            title: "Contact",
-            items: [
-              {
-                label: "Tumblr Ask",
-                href: "https://dapolyshipping.tumblr.com/ask",
-              },
-              {
-                label: "Discord",
-                href: "https://discord.gg/VUaGepeJmf",
-              },
-              {
-                label: "dapolyshipping@gmail.com",
-                href: "mailto:dapolyshipping@gmail.com",
-              },
-            ],
-          },
-          {
-            title: "Mods",
-            items: [
-              {
-                html: '<div class="avatar"><img class="avatar__photo avatar__photo--sm" src="/img/enig.png" /> <div class="avatar__intro"><div class="avatar__name">enigmalea</div><small class="avatar__subtitle"><a href="https://www.enigmalea.quest" class="footer__link-item"><i class="fa-solid fa-house"></i></a> <a href="https://enigmalea.tumblr.com" class="footer__link-item"><i class="fa-brands fa-tumblr"></i></a> <a href="https://easymode.im/@enigmalea" class="footer__link-item"><i class="fa-brands fa-mastodon"></i></a></small></div></div><div class="avatar"><img class="avatar__photo avatar__photo--sm" src="/img/fox.png" /> <div class="avatar__intro"><div class="avatar__name">foxinboots</div><small class="avatar__subtitle"><a href="https://twitter.com/TheFoxInBoots" class="footer__link-item"><i class="fa-brands fa-twitter"></i></a> <a href="https://thefoxinboots.tumblr.com" class="footer__link-item"><i class="fa-brands fa-tumblr"></i></a> <a href="https://www.instagram.com/foxinboots/" class="footer__link-item"><i class="fa-brands fa-instagram"></i></a></small></div></div>',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} <a href="https://thehangedman.club">The Hanged Man</a>`,
       },
       docs: {

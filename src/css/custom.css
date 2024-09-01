@@ -195,9 +195,21 @@ html[data-theme="light"] .navbar-sidebar {
   content: "A";
 }
 
+.announce::before {
+  font: var(--fa-font-solid);
+  content: "\23";
+  padding-right: 5px;
+}
+
 .blog::before {
   font: var(--fa-font-solid);
-  content: "\f0a1";
+  content: "\f0f3";
+  padding-right: 5px;
+}
+
+.bluesky::before {
+  font: var(--fa-font-brands);
+  content: "\e671";
   padding-right: 5px;
 }
 
@@ -237,7 +249,9 @@ html[data-theme="light"] .navbar-sidebar {
   padding-right: 5px;
 }
 
+.announce,
 .blog,
+.bluesky
 .discord,
 .exchange,
 .rss,
