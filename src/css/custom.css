@@ -195,12 +195,6 @@ html[data-theme="light"] .navbar-sidebar {
   content: "A";
 }
 
-.announce::before {
-  font: var(--fa-font-solid);
-  content: "\23";
-  padding-right: 5px;
-}
-
 .blog::before {
   font: var(--fa-font-solid);
   content: "\f0f3";
@@ -222,6 +216,18 @@ html[data-theme="light"] .navbar-sidebar {
 .exchange::before {
   font: var(--fa-font-solid);
   content: "\f79c";
+  padding-right: 5px;
+}
+
+.follow::before {
+  font: var(--fa-font-solid);
+  content: "\f234";
+  padding-right: 5px;
+}
+
+.modlink::before {
+  font: var(--fa-font-solid);
+  content: "\e533";
   padding-right: 5px;
 }
 
@@ -249,11 +255,12 @@ html[data-theme="light"] .navbar-sidebar {
   padding-right: 5px;
 }
 
-.announce,
 .blog,
 .bluesky
 .discord,
 .exchange,
+.follow,
+.modlink,
 .rss,
 .sharing,
 .tutorial,

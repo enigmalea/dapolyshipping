@@ -204,9 +204,9 @@ const config = {
           },
           {
             type: "dropdown",
-            label: "Social",
+            label: "Follow Us",
             position: "left",
-            className: "announce",
+            className: "follow",
             items: [
 							{
 								label: "Tumblr",
@@ -235,11 +235,17 @@ const config = {
               },
             ],
           },
+					{
+						label: "Mod Team",
+						position: "left",
+						href: "/mod",
+						className: "modlink",
+					},
         ],
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://thehangedman.club">The Hanged Man</a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://thehangedman.club" class="navbar__link">The Hanged Man</a>`,
       },
       docs: {
         sidebar: {
