@@ -61,7 +61,7 @@ valid polyship even without their interaction.
 Meanwhile, in a `Solas/f!Lavellan/Cullen Rutherford` ship, all three parties are
 having a good time with one another. This could be a sex only threesome or a
 loving relationship between all three of them. Both interpretations are welcome
-for DA Polyshipping Week.
+for DA Polyshipping Sharing.
 
 ## I don't have a tumblr. Can I still participate?
 
