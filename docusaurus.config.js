@@ -103,7 +103,7 @@ const config = {
               },
               {
                 label: "SIGN-UP HERE",
-                href: "https://archiveofourown.org/collections/dapolyex2023/signups/new",
+                href: "https://archiveofourown.org/collections/dapolyex2024/signups/new",
               },
               {
                 type: "doc",
@@ -112,19 +112,15 @@ const config = {
               },
               {
                 label: "Tag Set",
-                href: "https://archiveofourown.org/tag_sets/16282",
+                href: "https://archiveofourown.org/tag_sets/20815",
               },
               {
                 label: "Nominations Sheet",
-                href: "https://docs.google.com/spreadsheets/d/1ie4M0Bid8NZFYxj2gb55Z0WVIizWHdErUsJTNoqE2hE/edit?usp=sharing",
+                href: "https://docs.google.com/spreadsheets/d/1w4E9Pre8sPjRx75YADBgtT7dYBvUusGDXv0ivB-ua44/edit?usp=sharing",
               },
               {
                 label: "AutoAO3: Requests",
-                href: "https://autoao3app.fandom.tools/#/dapolyex2023/all",
-              },
-              {
-                label: "Treatless",
-                href: "https://airtable.com/appY5fs0OEcU1KK70/shrBVIVizfQ6O5rAv/tblvGEu0Tyo14AL4q",
+                href: "https://autoao3app.fandom.tools/#/dapolyex2024/all",
               },
               {
                 label: "Request an Extension",
@@ -183,6 +179,11 @@ const config = {
               {
                 label: "Parent Collection",
                 href: "https://archiveofourown.org/collections/dapolyex/",
+                className: "ao3",
+              },
+							{
+                label: "2024 Collection",
+                href: "https://archiveofourown.org/collections/dapolyex2024/",
                 className: "ao3",
               },
               {
