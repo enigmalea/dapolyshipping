@@ -197,7 +197,13 @@ html[data-theme="light"] .navbar-sidebar {
 
 .blog::before {
   font: var(--fa-font-solid);
-  content: "\f0a1";
+  content: "\f0f3";
+  padding-right: 5px;
+}
+
+.bluesky::before {
+  font: var(--fa-font-brands);
+  content: "\e671";
   padding-right: 5px;
 }
 
@@ -210,6 +216,18 @@ html[data-theme="light"] .navbar-sidebar {
 .exchange::before {
   font: var(--fa-font-solid);
   content: "\f79c";
+  padding-right: 5px;
+}
+
+.follow::before {
+  font: var(--fa-font-solid);
+  content: "\f234";
+  padding-right: 5px;
+}
+
+.modlink::before {
+  font: var(--fa-font-solid);
+  content: "\e533";
   padding-right: 5px;
 }
 
@@ -238,8 +256,11 @@ html[data-theme="light"] .navbar-sidebar {
 }
 
 .blog,
+.bluesky
 .discord,
 .exchange,
+.follow,
+.modlink,
 .rss,
 .sharing,
 .tutorial,
@@ -536,4 +557,38 @@ html[data-theme="dark"] .card__body {
 
 .card__image {
   padding: 0px;
+}
+
+/* Mod Page Styling */
+.mods {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 35px;
+}
+
+@media screen and (max-width: 810px) {
+  .mods {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 35px;
+  }
+}
+
+@media screen and (max-width: 545px) {
+  .mods {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+}
+
+.avatar__subtitle {
+  display: flex;
+  column-gap: 10px;
+  padding-top: 0px !important;
+  margin: 0px;
+}
+
+.mod__name {
+  color: var(--ifm-font-color-base);
 }

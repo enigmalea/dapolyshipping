@@ -109,6 +109,55 @@ const EventList: EventItem[] = [
       </>
     ),
   },
+	{
+    title: "DA Poly Exchange 2023",
+    tagset: "https://archiveofourown.org/tag_sets/16282",
+    collection: "http://archiveofourown.org/collections/dapolyex2023/profile",
+    requests: "https://autoao3app.fandom.tools/#/dapolyex2023/all",
+    nominations:
+      "https://docs.google.com/spreadsheets/d/1ie4M0Bid8NZFYxj2gb55Z0WVIizWHdErUsJTNoqE2hE/edit?usp=sharing",
+    tumblr: "http://dapolyshipping.tumblr.com/tagged/dapolyex2023",
+    stats: (
+      <>
+        <strong>Nominations:</strong> 304
+        <br />
+        <strong>Sign-Ups:</strong> 18
+        <br />
+        <strong>Works:</strong> 22
+        <br />
+        <div className={styles.display}>
+          <blockquote className={styles.stats}>
+            <strong className={styles.stats}>Rated G:</strong> 18.18%
+            <br />
+            <strong className={styles.stats}>Rated T:</strong> 36.36%
+            <br />
+            <strong className={styles.stats}>Rated M:</strong> 27.27%
+            <br />
+            <strong className={styles.stats}>Rated E:</strong> 13.64%
+            <br />
+						<strong className={styles.stats}>Not Rated:</strong> 4.55%
+          </blockquote>
+        </div>
+        <div className={styles.display}>
+          <blockquote className={styles.stats}>
+            <strong className={styles.stats}>Mixed Gender:</strong> 40.90%
+            <br />
+            <strong className={styles.stats}>Female Only:</strong> 13.65%
+            <br />
+            <strong className={styles.stats}>Male Only:</strong> 45.45%
+            <br />
+          </blockquote>
+        </div>
+        <div className={styles.display}>
+          <blockquote className={styles.stats}>
+            <strong className={styles.stats}>Art:</strong> 9.10%
+            <br />
+            <strong className={styles.stats}>Fics:</strong> 90.90%
+          </blockquote>
+        </div>
+      </>
+    ),
+  },
 ];
 
 function Event({
