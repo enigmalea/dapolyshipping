@@ -1,6 +1,0 @@
-.docusaurus
-.frontmatter
-.github
-.vscode
-
-node_modules/*
