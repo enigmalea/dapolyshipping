@@ -44,16 +44,16 @@ function Countdown() {
   });
   return (
     <div className={styles.countdown}>
-      <h2>Creators Revealed</h2>
-      {/* <b>
+      {/* <h2>Creators Revealed</h2> */}
+      <b>
         Join us for{" "}
         <a href="https://arlathanxchange.neocities.org">Arlathan eXchange</a> in
-        Spring 2024
+        Spring 2025
         <br />
         or join us at{" "}
         <a href="https://thehangedmanpub.netlify.app/">The Hanged Man!</a>
-      </b> */}
-      <b>{timerComponents.length ? timerComponents : <span>Now!</span>}</b>
+      </b>
+      {/* <b>{timerComponents.length ? timerComponents : <span>Now!</span>}</b> */}
     </div>
   );
 }
