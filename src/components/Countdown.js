@@ -6,7 +6,7 @@ import { SignUpsDate } from "./Schedule";
 
 function Countdown() {
   const calculateTimeLeft = () => {
-    const difference = +new Date(`2024-09-25T11:00:00-05:00`) - +new Date();
+    const difference = +new Date(`2024-11-17T11:00:00-05:00`) - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
@@ -44,8 +44,7 @@ function Countdown() {
   });
   return (
     <div className={styles.countdown}>
-      <h2>Sign Ups Extended</h2>
-			Due to <a href="https://ao3org.tumblr.com/post/762182251461197824/users-are-still-experiencing-issues-after-the">AO3's caching issues</a>, we've extended sign ups until<br /><SignUpsDate />!<br />
+      <h2>Works Due</h2>
       {/* <b>
         Join us for{" "}
         <a href="https://arlathanxchange.neocities.org">Arlathan eXchange</a> in
