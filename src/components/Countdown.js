@@ -6,7 +6,7 @@ import { SignUpsDate } from "./Schedule";
 
 function Countdown() {
   const calculateTimeLeft = () => {
-    const difference = +new Date(`2024-11-24T11:00:00-05:00`) - +new Date();
+    const difference = +new Date(`2024-12-01T11:00:00-05:00`) - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
@@ -44,7 +44,7 @@ function Countdown() {
   });
   return (
     <div className={styles.countdown}>
-      <h2>Works Revealed</h2>
+      <h2>Creators Revealed</h2>
       {/* <b>
         Join us for{" "}
         <a href="https://arlathanxchange.neocities.org">Arlathan eXchange</a> in
