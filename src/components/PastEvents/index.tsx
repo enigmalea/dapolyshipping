@@ -109,7 +109,7 @@ const EventList: EventItem[] = [
       </>
     ),
   },
-	{
+  {
     title: "DA Poly Exchange 2023",
     tagset: "https://archiveofourown.org/tag_sets/16282",
     collection: "http://archiveofourown.org/collections/dapolyex2023/profile",
@@ -135,7 +135,7 @@ const EventList: EventItem[] = [
             <br />
             <strong className={styles.stats}>Rated E:</strong> 13.64%
             <br />
-						<strong className={styles.stats}>Not Rated:</strong> 4.55%
+            <strong className={styles.stats}>Not Rated:</strong> 4.55%
           </blockquote>
         </div>
         <div className={styles.display}>
