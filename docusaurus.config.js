@@ -181,7 +181,7 @@ const config = {
                 href: "https://archiveofourown.org/collections/dapolyex/",
                 className: "ao3",
               },
-							{
+              {
                 label: "2024 Collection",
                 href: "https://archiveofourown.org/collections/dapolyex2024/",
                 className: "ao3",
@@ -209,25 +209,25 @@ const config = {
             position: "left",
             className: "follow",
             items: [
-							{
-								label: "Tumblr",
-								href: "https://dapolyshipping.tumblr.com",
-								className: "tumblr",
-							},
-							{
-								label: "BlueSky",
-								href: "https://bsky.app/profile/dapolyshipping.bsky.social",
-								className: "bluesky",
-							},
-							{
-								label: "Discord",
-								href: "https://discord.gg/VUaGepeJmf",
-								className: "discord",
-							},
+              {
+                label: "Tumblr",
+                href: "https://dapolyshipping.tumblr.com",
+                className: "tumblr",
+              },
+              {
+                label: "BlueSky",
+                href: "https://bsky.app/profile/dapolyshipping.bsky.social",
+                className: "bluesky",
+              },
+              {
+                label: "Discord",
+                href: "https://discord.gg/VUaGepeJmf",
+                className: "discord",
+              },
               {
                 label: "View Blog",
                 href: "/blog",
-								className: "blog",
+                className: "blog",
               },
               {
                 label: "Blog RSS",
@@ -236,12 +236,12 @@ const config = {
               },
             ],
           },
-					{
-						label: "Mod Team",
-						position: "left",
-						href: "/mod",
-						className: "modlink",
-					},
+          {
+            label: "Mod Team",
+            position: "left",
+            href: "/mod",
+            className: "modlink",
+          },
         ],
       },
       footer: {
