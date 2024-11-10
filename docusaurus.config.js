@@ -122,6 +122,10 @@ const config = {
                 label: "AutoAO3: Requests",
                 href: "https://autoao3app.fandom.tools/#/dapolyex2024/all",
               },
+							{
+								label: "Treatless List",
+								href: "https://docs.google.com/spreadsheets/d/1Lwe49QWm8xm_UxERbQcw2G4aVJ7gUCl6qs3gXc8J90w/edit?usp=sharing",
+							},
               {
                 label: "Request an Extension",
                 href: "/extensions",
