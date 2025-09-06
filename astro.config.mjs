@@ -119,6 +119,11 @@ export default defineConfig({
               },
             ],
           },
+					{
+            label: "Mod Team & Philosophy",
+            link: "mods",
+            icon: "seti:favicon",
+          },
         ]),
       ],
       expressiveCode: {
