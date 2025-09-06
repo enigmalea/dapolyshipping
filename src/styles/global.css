@@ -47,3 +47,22 @@
   /* Custom backdrop background color in light mode. */
   --starlight-image-zoom-backdrop-bg: rgba(242, 233, 222, 90%);
 }
+
+dl {
+	background: rgba(246, 193, 119, 5%);
+	border-left: 5px solid var(--color-rose-pine-gold);
+	border-radius: 0.5em;
+	padding: 0.5em 1.5em ;
+	margin: 2rem;
+}
+
+dt {
+	font-family: 'Monaspace Radon';
+	font-weight: normal;
+	color: var(--color-rose-pine-rose);
+}
+
+dd {
+	font-size: 0.95em;
+	color: var(--color-rose-pine-subtle);
+}
