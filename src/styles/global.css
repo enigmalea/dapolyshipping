@@ -1,17 +1,49 @@
-@layer base, starlight, theme, components, utilities;
+@layer base, starlight, rapide, theme, components, utilities, overrides;
 
-@import '@astrojs/starlight-tailwind';
-@import 'tailwindcss/theme.css' layer(theme);
-@import 'tailwindcss/utilities.css' layer(utilities);
+@import "@astrojs/starlight-tailwind";
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+@import "./rose-pine-moon.css";
+@import "./rose-pine-dawn.css";
+@import "./overrides.css";
+@import "@fontsource/poppins";
+@import "@fontsource/bellota";
+@import "@fontsource/monaspace-radon";
 
 @theme {
-	/*
-	Configure your Tailwind theme that will be used by Starlight.
-	https://starlight.astro.build/guides/css-and-tailwind/#styling-starlight-with-tailwind
-	*/
+  --font-sans: "Poppins";
+  --font-mono: "Monaspace Radon";
+  --font-header: "Bellota";
+
+  --color-accent-200: var(--color-rose-pine-love);
+  --color-accent-600: var(--color-rose-pine-dawn-love);
+  --color-accent-950: var(--color-rose-pine-base);
+  --color-gray-100: var(--color-rose-pine-dawn-surface);
+  --color-gray-200: var(--color-rose-pine-dawn-overlay);
+  --color-gray-300: var(--color-rose-pine-text);
+  --color-gray-400: var(--color-rose-pine-subtle);
+  --color-gray-700: var(--color-rose-pine-surface);
+  --color-gray-800: var(--color-rose-pine-surface);
+  --color-gray-900: var(--color-rose-pine-base);
 }
 
-/*
-Add additional Tailwind styles to this file:
-https://tailwindcss.com/docs/adding-custom-styles#using-custom-css
-*/
+:root {
+  --sl-color-gray-5: var(--color-rose-pine-muted);
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-high: var(--color-rose-pine-dawn-rose);
+  --sl-color-gray-2: var(--color-rose-pine-dawn-text);
+  --sl-color-white: var(--color-rose-pine-dawn-subtle);
+}
+
+:root {
+  /* Custom backdrop background color in dark mode. */
+  --starlight-image-zoom-backdrop-bg: rgba(57, 53, 82, 90%);
+}
+
+:root[data-theme="light"] {
+  /* Custom backdrop background color in light mode. */
+  --starlight-image-zoom-backdrop-bg: rgba(242, 233, 222, 90%);
+}

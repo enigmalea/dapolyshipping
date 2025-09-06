@@ -1,0 +1,169 @@
+main a,
+main a:visited,
+main a:active {
+  text-decoration: 2px underline wavy;
+  text-underline-offset: 4px;
+  text-decoration-skip-ink: none;
+}
+
+div.pagination-links a:any-link,
+main a:hover {
+  text-decoration: none;
+}
+
+[data-theme="light"] main a,
+[data-theme="light"] main a:visited,
+[data-theme="light"] main a:active {
+  color: var(--color-rose-pine-dawn-love);
+}
+
+[data-theme="light"] main a:hover {
+  color: var(--color-rose-pine-dawn-rose);
+}
+
+[data-theme="dark"] main a,
+[data-theme="dark"] main a:visited,
+[data-theme="dark"] main a:active {
+  color: var(--color-rose-pine-love);
+}
+
+[data-theme="dark"] main a:hover {
+  color: var(--color-rose-pine-rose);
+}
+
+[data-theme="light"] .social-links a,
+[data-theme="light"] .social-links a:visited,
+[data-theme="light"] .social-links a:active {
+  color: var(--color-rose-pine-dawn-text) !important;
+}
+
+[data-theme="light"] svg {
+  color: var(--color-rose-pine-dawn-text) !important;
+	opacity: 100%;
+}
+
+[data-theme="light"] .social-links a:hover,
+[data-theme="light"] svg:hover {
+  color: var(--color-rose-pine-dawn-love) !important;
+	opacity: 100%;
+}
+
+[data-theme="dark"] .social-links a,
+[data-theme="dark"] .social-links a:visited,
+[data-theme="dark"] .social-links a:active {
+  color: var(--color-rose-pine-text) !important;
+}
+
+[data-theme="dark"] svg {
+  color: var(--color-rose-pine-text) !important;
+	opacity: 100%;
+}
+
+[data-theme="dark"] .social-links a:hover,
+[data-theme="dark"] svg:hover {
+  color: var(--color-rose-pine-love) !important;
+	opacity: 100%;
+}
+
+[data-icon] {
+		opacity: 100%;
+	}
+	
+[data-theme="light"] a [data-icon],
+[data-theme="light"] a:visited [data-icon],
+[data-theme="light"] a:active [data-icon] {
+  color: var(--color-rose-pine-dawn-text) !important;
+}
+
+[data-theme="light"] a:hover [data-icon] {
+  color: var(--color-rose-pine-dawn-love) !important;
+}
+
+[data-theme="dark"] a [data-icon],
+[data-theme="dark"] a:visited [data-icon],
+[data-theme="dark"] a:active [data-icon] {
+  color: var(--color-rose-pine-text) !important;
+}
+
+[data-theme="dark"] a:hover [data-icon] {
+  color: var(--color-rose-pine-love) !important;
+}
+
+starlight-menu-button button {
+	background: transparent !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-header);
+}
+
+[data-theme="light"] h1 {
+  color: var(--color-rose-pine-dawn-pine);
+}
+
+[data-theme="light"] h2 {
+  color: var(--color-rose-pine-dawn-foam);
+}
+
+[data-theme="light"] h3 {
+  color: var(--color-rose-pine-dawn-iris);
+}
+
+[data-theme="dark"] h1 {
+  color: var(--color-rose-pine-pine);
+}
+
+[data-theme="dark"] h2 {
+  color: var(--color-rose-pine-foam);
+}
+
+[data-theme="dark"] h3 {
+  color: var(--color-rose-pine-iris);
+}
+
+code {
+  font-size: 1rem;
+}
+
+.social-icons::after,
+.header,
+.sidebar-pane {
+  border: 0px;
+}
+
+[data-theme="light"] .starlight-sidebar-topics::after {
+  border-color: var(--color-rose-pine-dawn-iris);
+}
+
+[data-theme="dark"] .starlight-sidebar-topics::after {
+  border-color: var(--color-rose-pine-iris);
+}
+
+[data-theme="dark"] header {
+  background: rgba(35, 33, 54, 90%);
+}
+
+[data-theme="light"] b,
+[data-theme="light"] strong {
+  color: var(--color-rose-pine-dawn-gold);
+}
+
+[data-theme="dark"] b,
+[data-theme="dark"] strong {
+  color: var(--color-rose-pine-gold);
+}
+
+[data-theme="light"] i,
+[data-theme="light"] em {
+  color: var(--color-rose-pine-dawn-iris);
+}
+
+[data-theme="dark"] i,
+[data-theme="dark"] em {
+  color: var(--color-rose-pine-iris);
+}
