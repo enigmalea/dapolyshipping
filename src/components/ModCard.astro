@@ -1,0 +1,71 @@
+---
+import type { ImageMetadata } from "astro";
+import type { SocialsSchema } from "@fujocoded/zod-transform-socials";
+import { Icon } from "astro-icon/components";
+
+interface Props {
+  name: string;
+  avatar: ImageMetadata;
+  links: Array<SocialsSchema>;
+}
+
+const props = Astro.props;
+
+const altText: string = `${props.name}'s Avatar`;
+---
+
+<div class="modcard">
+  <div>
+    <img src={props.avatar.src} alt={altText} width={100} />
+  </div>
+  <div>
+    <h3>{props.name}</h3>
+    <ul class:list={{ hidden: props.links.length == 0 }}>
+      {
+        props.links.map((link) => (
+          <li>
+            <a href={link.url}>
+              {link.icon ? (
+                <>
+                  <Icon name={link.icon} title={link.platform} />
+                </>
+              ) : (
+                <>
+                  <Icon
+                    name={"lucide:home"}
+                    title={`${props.name}'s website`}
+                  />
+                </>
+              )}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</div>
+
+<style>
+  .modcard {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    min-width: 50%;
+  }
+
+  ul {
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: end;
+    gap: 20px;
+    padding-left: 0px;
+  }
+
+  img {
+    border-radius: 100%;
+  }
+</style>

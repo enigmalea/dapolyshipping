@@ -1,0 +1,30 @@
+---
+import { getCollection } from "astro:content";
+import ModCard from "./ModCard.astro";
+
+const mods = await getCollection("mods");
+---
+
+<div class="modlist">
+  {
+    mods.map(async (mod) => {
+      return (
+        <ModCard
+          name={mod.data.name}
+          avatar={mod.data.avatar}
+          links={mod.data.links}
+        />
+      );
+    })
+  }
+</div>
+
+<style>
+  .modlist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: end;
+  }
+</style>

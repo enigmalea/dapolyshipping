@@ -1,46 +1,39 @@
 ---
-title: Welcome to Starlight
+title: ""
 description: Get started building your docs site with Starlight.
-template: splash
-hero:
-  title: |
-    Welcome to Starlight with
-    <span
-      class="font-black text-transparent
-        bg-clip-text bg-gradient-to-b
-        from-accent-700 to-accent-400
-        dark:from-accent-500 dark:to-accent-200"
-    >
-      Tailwind
-    </span>
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
-  actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
+template: doc
+tableOfContents: false
+topic: exchanges
+head:
+  - tag: title
+    content: Dragon Age Polyshipping
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import Countdown from "../../components/Countdown";
+import { Image } from "astro:assets";
+import banner from "../../assets/images/banner.png";
 
-## Next steps
+<Image src={banner} alt="A rocketship in space." data-zoom-off />
+<Countdown client:load />
 
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
-</CardGrid>
+<h1>Welcome to DA Polyshipping!</h1>
+
+Dragon Age Polyshipping was created as a way to celebrate polaymorous shipping
+within the Dragon Age fandom in all its forms. The account started in Jan 2021
+as dapolyshippingday on tumblr, with the intention of hosting a monthly event on
+tumblr on the first of each month. In July 2021, we began running Dragon Age
+Poly Exchange, a yearly fan exchange hosted on Archive of Our Own. With the
+introduction of the exchange, the mods decided to update the tumblr username to
+dapolyshipping.
+
+In 2022, the monthly DA Polyshipping Day event was altered to a quarterly DA
+Polyshipping Week. The next year brought another change for the event, with the
+mods choosing to boost Dragon Age polyamorous content all year long!
+
+<p><strong>
+  You can tag @dapolyshipping on tumblr or bluesky at any time to have your
+  Dragon Age polyamory content shared.
+</strong></p>
+
+<p>For more information on our sharing policies, see the "Poly Sharing" section of
+the site!</p>
