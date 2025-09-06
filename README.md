@@ -1,60 +1,34 @@
-# Starlight Starter Kit: Tailwind
+<h1 align="center">DA Polyshipping</h1>
+<div align="center">
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+![MIT License](https://img.shields.io/github/license/enigmalea/dapolyshipping?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/enigmalea/dapolyshipping?style=for-the-badge)
+[![Website Status](https://img.shields.io:/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fdapolyshipping.neocities.org)](http://dapolyshipping.neocities.org)<br />
+[![Join DA Polyshipping Discord](https://img.shields.io/discord/882432559982706758?color=5865F2&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/FzhC9bVFva)
+[![tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://dapolyshipping.tumblr.com)
 
-```
-npm create astro@latest -- --template starlight/tailwind
-```
+<a href="#about">About</a> &#xa0; | &#xa0; <a href="#technology">Technology</a>
+&#xa0; | &#xa0;
+<a href="https://github.com/enigmalea" target="_blank">Author</a>
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+</div>
 
-## 🚀 Project Structure
+<br>
 
-Inside of your Astro + Starlight project, you'll see the following folders and
-files:
+## About
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   ├── styles/
-│   │   └── global.css
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+This repository is for the website for Dragon Age Polyshipping. Started by a
+pair of like-minded fans in 2021, DA Polyshipping hosts quarterly polyshipping
+celebrations on tumblr, and an annual fan exchange on AO3.
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory.
-Each file is exposed as a route based on its file name.
+Feel free to follow us on our social media and join in on the fun.
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative
-link.
+## Technology
 
-Static assets, like favicons, can be placed in the `public/` directory.
+The website was built using [Astr](https://astro.build) which uses a
+combination of markdown, React, javascript, html, and css to generate a static
+site.
 
-The project includes
-[Tailwind CSS](https://starlight.astro.build/guides/css-and-tailwind/#tailwind-css)
-for styling. Customize your design by modifying `src/styles/global.css`.
+<center>Made with :heart: by <a href="https://github.com/enigmalea" target="_blank">enigmalea</a></center>
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read
-[the Astro documentation](https://docs.astro.build), or jump into the
-[Astro Discord server](https://astro.build/chat).
+<a href="#top">Back to top</a>
