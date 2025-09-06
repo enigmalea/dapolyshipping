@@ -4,6 +4,7 @@ sidebar:
   order: 3
 ---
 
+import { Steps } from "@astrojs/starlight/components";
 import { Aside } from "@astrojs/starlight/components";
 import { Image } from "astro:assets";
 import giftsettingon from "../../../assets/images/giftsettingon.png";
@@ -92,31 +93,41 @@ gotten an extra gift yet.
 
 ### To give a treat to specific recipients:
 
+<Steps>
+
 1. Go to this year's Collection and click the `Post to Collection` button
    <u>or</u> go to `New Work`.
 2. In the **Associations** section of the New Work make sure:
-   1. This year's collection is listed in the `Post to Collections / Challenges`
-      box.
-   2. You list all the recipients who you'd like to receive the work as a treat
-      in the `Gift this work to` box.
+   - This year's collection is listed in the `Post to Collections / Challenges`
+     box.
+   - You list all the recipients who you'd like to receive the work as a treat
+     in the `Gift this work to` box.
 
-<Image src={posttreat} alt="Post Treat" />
+     <Image src={posttreat} alt="Post Treat" />
 
-<Aside type="tip" icon="star">
+       <Aside type="tip" icon="star">
 
-You can use copy & paste to make sure you're gifting to the correct person in
-the correct exchange!
+     You can use copy & paste to make sure you're gifting to the correct person
+     in the correct exchange!
 
-</Aside>
+       </Aside>
+
+</Steps>
 
 ### To give a treat to the whole exchange:
 
+<Steps>
+
 1. Go to this year's Collection and click the `Post to Collection` button or go
    to `New Work`.
-2. In the **Associations** section of the New Work make sure:
-   1. This year's collection is listed in the `Post to Collections / Challenges`
-      box.
 
-<p role="note">
-  There is no need to list anything in the `Gift this work to` box.
-</p>
+2. In the **Associations** section of the New Work make sure this year's
+   collection is listed in the `Post to Collections / Challenges` box.
+
+   <Aside type="note" icon="document">
+
+   There is no need to list anything in the `Gift this work to` box.
+
+   </Aside>
+
+</Steps>
