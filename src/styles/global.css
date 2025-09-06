@@ -10,11 +10,13 @@
 @import "@fontsource/poppins";
 @import "@fontsource/bellota";
 @import "@fontsource/monaspace-radon";
+@import '@fontsource/silkscreen';
 
 @theme {
   --font-sans: "Poppins";
   --font-mono: "Monaspace Radon";
   --font-header: "Bellota";
+	--font-badge: "Silkscreen";
 
   --color-accent-200: var(--color-rose-pine-love);
   --color-accent-600: var(--color-rose-pine-dawn-love);
