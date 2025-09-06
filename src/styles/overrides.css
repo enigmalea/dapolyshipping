@@ -39,13 +39,13 @@ main a:hover {
 
 [data-theme="light"] svg {
   color: var(--color-rose-pine-dawn-text) !important;
-	opacity: 100%;
+  opacity: 100%;
 }
 
 [data-theme="light"] .social-links a:hover,
 [data-theme="light"] svg:hover {
   color: var(--color-rose-pine-dawn-love) !important;
-	opacity: 100%;
+  opacity: 100%;
 }
 
 [data-theme="dark"] .social-links a,
@@ -56,19 +56,19 @@ main a:hover {
 
 [data-theme="dark"] svg {
   color: var(--color-rose-pine-text) !important;
-	opacity: 100%;
+  opacity: 100%;
 }
 
 [data-theme="dark"] .social-links a:hover,
 [data-theme="dark"] svg:hover {
   color: var(--color-rose-pine-love) !important;
-	opacity: 100%;
+  opacity: 100%;
 }
 
 [data-icon] {
-		opacity: 100%;
-	}
-	
+  opacity: 100%;
+}
+
 [data-theme="light"] a [data-icon],
 [data-theme="light"] a:visited [data-icon],
 [data-theme="light"] a:active [data-icon] {
@@ -90,7 +90,7 @@ main a:hover {
 }
 
 starlight-menu-button button {
-	background: transparent !important;
+  background: transparent !important;
 }
 
 h1,
