@@ -83,18 +83,24 @@ export default function Countdown() {
       }
     );
     return (
-      <div className="mx-auto my-0 max-w-max text-center" style={{ paddingTop: 20 }}>
+      <div
+        className="mx-auto my-0 max-w-max text-center"
+        style={{ paddingTop: 20 }}
+      >
         <h2 key={nextDeadline.id}>{nextDeadline!.label}</h2>
         <b>{timerComponents.length ? timerComponents : <span>Now!</span>}</b>
       </div>
     );
   } else {
     return (
-      <div className="mx-auto my-0 max-w-max text-center" style={{ paddingTop: 20 }}>
+      <div
+        className="mx-auto my-0 max-w-max text-center"
+        style={{ paddingTop: 20 }}
+      >
         <b>
           Join us for{" "}
-          <a href="https://arlathanexchange.neocities.org">Arlathan eXchange</a> in
-          Spring or join us at{" "}
+          <a href="https://arlathanexchange.neocities.org">Arlathan eXchange</a>{" "}
+          in Spring or join us at{" "}
           <a href="https://thehangedman.club/">The Hanged Man!</a>
         </b>
       </div>

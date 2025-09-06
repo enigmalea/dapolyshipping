@@ -55,7 +55,7 @@ not to make this difficult, and we use the broadest senses of "healthy" and
   also sleeping with Iron Bull.
 
 For more details check out the exchange
-[FAQ - What do you mean by healthy polyamory?](/docs/exchange/faq#what-do-you-mean-by-healthy-polyamory).
+[FAQ - What do you mean by healthy polyamory?](/exchange/faq/#what-do-you-mean-by-healthy-polyamory).
 
 ## How do I participate?
 
@@ -95,6 +95,6 @@ requests, or even opening commissions/requests specifically for polyships!
 
 3. For nsfw content please tag using _#lemons_.
 
-If you have other questions, please check the [FAQs](/docs/sharing/faq) first.
-If they don't answer your questions feel free to contact us on tumblr, discord,
-or email.
+If you have other questions, please check the [FAQs](/sharing/faq) first. If
+they don't answer your questions feel free to contact us on tumblr, discord, or
+email.

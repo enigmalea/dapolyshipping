@@ -25,9 +25,8 @@ Feel free to follow us on our social media and join in on the fun.
 
 ## Technology
 
-The website was built using [Astr](https://astro.build) which uses a
-combination of markdown, React, javascript, html, and css to generate a static
-site.
+The website was built using [Astr](https://astro.build) which uses a combination
+of markdown, React, javascript, html, and css to generate a static site.
 
 <center>Made with :heart: by <a href="https://github.com/enigmalea" target="_blank">enigmalea</a></center>
 

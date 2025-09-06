@@ -14,6 +14,8 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://dapolyshipping.neocities.org",
+
   integrations: [
     metaTags(),
     starlight({
@@ -55,9 +57,9 @@ export default defineConfig({
                 label: "Tutorials",
                 autogenerate: { directory: "exchange/tutorials/" },
               },
-							{
+              {
                 label: "Current Exchange",
-								badge: {text: "New", variant: "success"},
+                badge: { text: "New", variant: "success" },
                 items: [
                   {
                     label: "2025 Collection",
@@ -67,7 +69,7 @@ export default defineConfig({
                     label: "Tag Nominations",
                     link: "https://archiveofourown.org/tag_sets/25091",
                   },
-									{
+                  {
                     label: "SIGN-UP HERE!",
                     link: "https://archiveofourown.org/collections/dapolyex2025/signups/new",
                   },
@@ -79,11 +81,11 @@ export default defineConfig({
                     label: "AutoAO3App: Tags",
                     link: "https://autoao3app.fandom.tools/#/dapolyex2025/tagset",
                   },
-									{
+                  {
                     label: "AutoAO3App: Requests",
                     link: "https://autoao3app.fandom.tools/#/dapolyex2025/all",
                   },
-									{
+                  {
                     label: "Treatless List",
                     link: "https://docs.google.com/spreadsheets/d/1PshNZg8xlqbfwIPboo0WJTgvaWei3731hqe62HikIBA/edit?usp=sharing",
                   },
