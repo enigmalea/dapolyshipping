@@ -11,6 +11,12 @@ main a:hover {
   text-decoration: none;
 }
 
+[class*="badge"] {
+	font-family: var(--font-badge);
+	padding: 0.35em;
+	font-size: 0.75em;
+}
+
 [data-theme="light"] main a,
 [data-theme="light"] main a:visited,
 [data-theme="light"] main a:active {
@@ -114,6 +120,12 @@ h6 {
   color: var(--color-rose-pine-dawn-iris);
 }
 
+[data-theme="light"] h4,
+[data-theme="light"] h5,
+[data-theme="light"] h6 {
+	color: var(--color-rose-pine-dawn-subtle);
+}
+
 [data-theme="dark"] h1 {
   color: var(--color-rose-pine-pine);
 }
@@ -124,6 +136,12 @@ h6 {
 
 [data-theme="dark"] h3 {
   color: var(--color-rose-pine-iris);
+}
+
+[data-theme="dark"] h4,
+[data-theme="dark"] h5,
+[data-theme="dark"] h6 {
+	color: var(--color-rose-pine-subtle);
 }
 
 code {
