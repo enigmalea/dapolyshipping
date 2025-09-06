@@ -121,7 +121,7 @@ export default defineConfig({
           },
 					{
             label: "Mod Team & Philosophy",
-            link: "./mods",
+            link: "../../../mods",
             icon: "seti:favicon",
           },
         ]),
